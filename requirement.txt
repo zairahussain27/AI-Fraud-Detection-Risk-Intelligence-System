@@ -1,0 +1,27 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+jupyter
+
+# SQL Server connection
+pyodbc
+sqlalchemy
+
+# Excel support
+openpyxl
+
+# Optional: dashboard/web app
+streamlit
+
+# AI explanation layer (optional but recommended)
+openai
+python-dotenv
