@@ -192,5 +192,5 @@ This project is being built as a flagship real-world analytics system demonstrat
 ## 👤 Author
 
 **Zaira**
-Aspiring Data Analyst | SQL • Python • Power BI
+Aspiring Data Analyst | SQL • Python • Power BI • sckit-learn
 Focused on building real-world analytics projects and solving business problems through data.
