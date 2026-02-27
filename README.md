@@ -17,7 +17,7 @@ Financial institutions face major losses due to:
 * fraudulent transactions
 * stolen cards
 * suspicious payments
-* bot activity
+
 
 They need intelligent systems that can:
 
