@@ -17,7 +17,7 @@ Financial institutions face major losses due to:
 * fraudulent transactions
 * stolen cards
 * suspicious payments
-
+* bot activity
 
 They need intelligent systems that can:
 
@@ -192,5 +192,5 @@ This project is being built as a flagship real-world analytics system demonstrat
 ## 👤 Author
 
 **Zaira**
-Aspiring Data Analyst | SQL • Python • Power BI • sckit-learn
+Aspiring Data Analyst | SQL • Python ko 
 Focused on building real-world analytics projects and solving business problems through data.
